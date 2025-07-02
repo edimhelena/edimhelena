@@ -5,11 +5,10 @@
 Me chamo Helena Edim Guimarães, tenho 19 anos e sou natural de Belo Horizonte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Sou apaixonada por tecnologia e procuro ganhar experiência.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.linkedin.com/in/helena-edim-guimaraes/" target="_blank">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://img.shields.io/badge/LinkedIn-Conecte-se-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+            alt="LinkedIn"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
