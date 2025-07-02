@@ -7,6 +7,7 @@ Me chamo Helena Edim Guimarães, tenho 19 anos e sou natural de Belo Horizonte. 
 <p align="left">
     <a href="https://www.linkedin.com/in/helena-edim-guimaraes/" target="_blank">
         <img 
+            title="Meu Linkedin"
             src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" 
         />
     </a>
