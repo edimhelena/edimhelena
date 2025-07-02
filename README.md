@@ -72,11 +72,11 @@ Me chamo Helena Edim Guimarães, tenho 19 anos e sou natural de Belo Horizonte. 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <img 
     align="left" 
