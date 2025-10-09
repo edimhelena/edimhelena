@@ -116,5 +116,7 @@ Me chamo Helena Edim Guimarães, tenho 19 anos e sou natural de Belo Horizonte. 
 
 ---
 # 💻 Projetos
+### Universidade Stark - Processo Seletivo
+link: https://github.com/edimhelena/ProcessoSeletivo-Stark.git
 ### DevBurger
 link: https://github.com/edimhelena/devburger.git
