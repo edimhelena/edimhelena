@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Helena Edim Guimarães, tenho 19 anos e sou natural de Belo Horizonte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Sou apaixonada por tecnologia e procuro ganhar experiência na área.
+Me chamo Helena Edim Guimarães, tenho 20 anos e sou natural de Belo Horizonte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Sou apaixonada por tecnologia e estou aprofundando meus conhecimentos em Java, Spring Boot e SQL.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/helena-edim-guimaraes/" target="_blank">
